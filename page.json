@@ -17,16 +17,11 @@
       "title": "Twitter",
       "url": "https://twitter.com/sezerweb",
       "icon": "twitter"
-    }, 
+    },  
     {
-      "title": "Instagram",
-      "url": "https://www.instagram.com/sezerweb/",
-      "icon": "instagram"
-    },
-    {
-      "title": "Medium",
-      "url": "https://medium.com/@sezerweb",
-      "icon": "medium"
+      "title": "sezerweb.com",
+      "url": "http://sezerweb.com",
+      "icon": "link"
     }
   ]
 }
