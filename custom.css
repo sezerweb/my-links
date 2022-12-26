@@ -40,5 +40,8 @@
 .ld-custom-background-layer {
     background-color: #fff;
 }
+.revision{
+    opacity: 0;
+}
 
 
