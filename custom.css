@@ -40,6 +40,6 @@
 .ld-custom-background-layer {
     background-color: #fff;
 }
-.footer{
+.footer .ld-custom-name{
     display: none !important;
 }
