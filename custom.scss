@@ -1,7 +1,13 @@
 
 .ld-background-base {
-   
-    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 40%, rgba(0,182,255,1) 100%)
+    background-image: url(cloud.svg);
+      display: block;
+      background-color: #fff; 
+       background-repeat: no-repeat;
+      background-size: cover;
+      background-position: bottom center, 50%, 50%;
+
+    
 }
 
 .ld-custom-name {
@@ -13,16 +19,14 @@
 }
 
 .ld-custom-button-container {
-    
-    background: rgba(255, 255, 255, 0.15);
+    background: rgba(255, 255, 255, 0.4);
     color: #013b52;
-    border: 1px solid rgba(92,201,245,0.3);
-    box-shadow: 0 0  200px #5cc9f5;
+    border: 1px solid rgba(255, 255, 255, 0.5); 
 }
 
 .ld-custom-button-container:hover { 
-    transform: scale(1.02);
-    color: #11B9FD
+    transform: scale(1.01);
+    color: #fff
      
 }
 
